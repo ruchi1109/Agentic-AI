@@ -1,0 +1,3 @@
+Based on the search results, the average response time for job applications in Indian companies can range from 1-2 weeks for initial contact, with some larger companies taking 2-3 months to complete the recruitment process. Additionally, the average response time after an interview is around 24 business days, with the overall hiring process taking an average of 32 days.
+
+Considering these timelines, the application tracking system should incorporate the understanding that responses may take 1-2 weeks for initial contact, follow-ups after interviews may take around 24 business days, and the entire recruitment process could span up to 32 days. This information will help in setting realistic expectations and appropriate follow-up timings within the Indian business context.

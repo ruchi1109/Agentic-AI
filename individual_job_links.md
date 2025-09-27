@@ -1,0 +1,1 @@
+Further extraction of individual job posting URLs with job IDs from Naukri.com will require navigating to each specific job listing page to access the direct links.

@@ -1,28 +1,14 @@
-Interview Questions and Talking Points for Noah and Ruchi:
+Based on João Moura's resume and the job requirements for the Data Scientist, Product Analytics role at Meta in Bengaluru, Karnataka, India, here are some potential interview questions and talking points:
 
-1. Leadership Experience:
-- How have you demonstrated your leadership skills in managing remote and in-office teams?
-- Can you share a specific example of a major tech initiative or startup you successfully led?
-- What strategies do you use to mentor and coach team members for skill enhancement?
+1. Can you walk me through your experience with data querying languages like SQL, scripting languages such as Python, and statistical/mathematical software like R? How have you utilized these skills in your previous roles?
+2. Could you elaborate on a specific data-driven project you led from definition to execution, including how you defined metrics, designed experiments, and communicated actionable insights to drive product improvements?
+3. In what ways have you applied quantitative approaches to solve analytical problems, understand ecosystems, user behaviors, and long-term product trends in your previous work?
+4. How have you leveraged GenAI approaches such as GANs and VAEs to develop synthetic data generation models and evaluate model performance against real data?
+5. Can you share an example of a project where you automated manual processes using ML models and large language models to enhance efficiency and reduce development time?
+6. Walk me through a scenario where you identified user intents in short texts using unsupervised learning techniques and the impact it had on the project's success.
+7. How have you collaborated with cross-functional teams to deliver business-critical ML models that significantly reduced processing time while maintaining high quality standards?
+8. Discuss your experience with cloud environments, model deployment pipelines, and your familiarity with AWS services like EC2 and S3.
+9. Share a challenging situation you faced in your previous roles as a Data Scientist/ML Engineer and how you approached and solved it.
+10. How do you ensure continuous improvement in the efficiency and quality of the projects you lead, considering your collaborative problem-solving approach and value for transparency and feedback?
 
-2. Technical Expertise:
-- What programming languages and frameworks do you specialize in, and how have you applied them in your projects?
-- Could you elaborate on your experience in AI and data science, including specific projects you've worked on?
-- How do you stay updated on cutting-edge technologies in AI and data science?
-
-3. Project Experiences:
-- Describe a challenging project you managed from start to finish, highlighting the key milestones and outcomes.
-- How did you contribute to open-source projects, and what impact did your contributions have on the software development community?
-- Can you discuss a project where you implemented automated workflows using AI agents, and the results achieved?
-
-4. Contributions and Collaborations:
-- Share a situation where you spearheaded the adoption of new technologies within your organization.
-- How do you collaborate with cross-functional teams to achieve project milestones effectively?
-- What motivates you to contribute to open-source projects and how do you approach such collaborations?
-
-5. Communication Style and Professional Development:
-- How do you communicate complex technical concepts to different stakeholders in a clear and concise manner?
-- In what ways do you drive innovation and growth in the tech industry through continuous learning and professional development?
-- What role does feedback play in your collaborative and forward-thinking discussions?
-
-These questions and talking points aim to delve into the candidates' experiences, skills, and qualities that align with the job requirements of a Software Engineering Leader and a Data Scientist/ML Engineer. By preparing responses to these questions, Noah and Ruchi can effectively highlight their strengths and suitability for the respective roles during the interview.
+These questions and talking points will help João Moura showcase his expertise, experience, and qualifications that align with the job requirements for the Data Scientist, Product Analytics role at Meta.
